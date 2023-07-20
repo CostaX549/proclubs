@@ -424,7 +424,7 @@ body {
 }
 @media (max-width:1000px){
     header {
-        padding:10px; /* Defina a altura desejada para o header em layouts responsivos */
+        height:10px; /* Defina a altura desejada para o header em layouts responsivos */
         width: 100%;
        
       }
